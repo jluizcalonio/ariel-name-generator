@@ -27,3 +27,4 @@ I decided to share it, since some of you may have the same problem.
 <hr>
 
 Video:
+![](https://github.com/jluizcalonio/ariel-name-generator/blob/main/namegendemo.gif)
